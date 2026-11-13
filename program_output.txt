@@ -1,0 +1,6 @@
+Throat area A* = 1.5000
+Mass flow rate: min = 1759.145697 kg/s, max = 1759.145697 kg/s (should be ~constant)
+Exit Mach number: 3.0342
+Exit pressure: 20815.98 Pa (p/p0 = 0.0302)
+Exit temperature: 165.22 K
+Exit velocity: 828.47 m/s
